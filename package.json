@@ -1,0 +1,17 @@
+{
+  "name": "connect-chargebee",
+  "version": "1.0.0",
+  "workspaces": [
+    "app",
+    "server"
+  ],
+  "description": "Try out how to connect demo chargebee with server",
+  "main": "index.js",
+  "repository": "git@github.com:Zolwiastyl/connect-chargebee.git",
+  "author": "Zolwiastyl <zolwiastyl@github.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
+}
